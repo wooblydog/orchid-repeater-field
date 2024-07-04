@@ -27,18 +27,18 @@
   },
   "autoload": {
     "psr-4": {
-      "wooblydog\\OrchidRepeaterField\\": "src/"
+      "nakukryskin\\OrchidRepeaterField\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "wooblydog\\OrchidRepeaterField\\Tests\\": "tests"
+      "nakukryskin\\OrchidRepeaterField\\Tests\\": "tests"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "wooblydog\\OrchidRepeaterField\\Providers\\ServiceProvider"
+        "nakukryskin\\OrchidRepeaterField\\Providers\\ServiceProvider"
       ]
     }
   },
